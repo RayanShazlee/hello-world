@@ -1,0 +1,9 @@
+git and github 
+
+1. git a open source projects are built and maintained collectively by different developer in different location.
+2. git track changes via a distributed version co ntrol system.
+3. you also need a place to host your code, this is where github comes in 
+4. When you are using  github, you are  using or working with git beneath the hood
+5. Difference => git is version control system that manages and keeps track of you r code.
+                github on the other side is a asevicethat let you host, share and manages your code files on the internet.
+
